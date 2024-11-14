@@ -54,11 +54,11 @@ Airbnb is seeking a data engineering contractor to transform raw Airbnb datasets
 
 # Deliverables
 
-   # Monthly Progress Reports: Detailed reports outlining progress on each problem statement, including methodologies, challenges, and preliminary results.
-   # Final Data Warehouse: A fully populated and optimized data warehouse schema.
-   # Predictive Models: Trained and validated machine learning models with performance metrics.
-   # BI Dashboards: Interactive dashboards for exploring data and insights.
-   # Comprehensive Final Report: A detailed report summarizing the entire project, including methodologies, findings, and recommendations
+    Monthly Progress Reports: Detailed reports outlining progress on each problem statement, including methodologies, challenges, and preliminary results.
+    Final Data Warehouse: A fully populated and optimized data warehouse schema.
+    Predictive Models: Trained and validated machine learning models with performance metrics.
+    BI Dashboards: Interactive dashboards for exploring data and insights.
+    Comprehensive Final Report: A detailed report summarizing the entire project, including methodologies, findings, and recommendations
 
     
 
